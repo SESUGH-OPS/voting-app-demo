@@ -5,4 +5,3 @@
 <div align="center">
    <img src="./images/vote-app.png" width="300" alt="description of vote application">
 </div>
-<img src="./images/vote-app.png" width="300" alt="description of vote application">
