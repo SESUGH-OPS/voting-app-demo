@@ -4,7 +4,7 @@
  
  <br>
 
- ###### *BELOW IS THE WORKFLOW OF THE APPLICATION*
+ ###### <h4 align="center">*BELOW IS THE WORKFLOW OF THE APPLICATION*</h4>
 <div align="center">
    <img src="./images/vote-app.png" width="300" alt="description of vote application">
 </div>
