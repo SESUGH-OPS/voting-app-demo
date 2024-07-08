@@ -16,7 +16,7 @@
 
  - *Now run the command below to have your deployment files up and running*
   ```
-  kubectl create -f Deployment <name of deployment file>
+  kubectl create -f Deployment <name of deploymentfile as specified in the repo>
   ```
    <br>
 
