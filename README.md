@@ -22,7 +22,7 @@
    <img src="./images/deployment.png" width="2000" alt="Deployments display format">
 </div>
 
- **The results and voting deployments serve as the frontend of the application**
+> **The results and voting deployments serve as the frontend of the application**
 
   #### **The below commands gets you the url of both frontend pods**
    ```
